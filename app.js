@@ -34,8 +34,6 @@ const render = require("./lib/htmlRenderer");
 
 
 
-
-
 const fullTeam = [];
 
 
